@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @officialmail00786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m MD SARFARAZ
+- 👀 I’m interested in Python, Computer Vision, Middleware Integrations, Azure Cloud etc.
+- 🌱 I’m currently learning Generative AI Technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-officialmail00786/officialmail00786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
